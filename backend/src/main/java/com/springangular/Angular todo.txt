@@ -1,0 +1,21 @@
+
+To do:
+    1. create Components = ng g c Component name
+        - a component that holds business logic
+    2. create service = ng g s Service name
+        - hold the http client - restful service
+    3. create a rout - ng g m routing --flat --module=app
+        - create only if not create already
+
+
+Components
+
+ 1. app Component
+    - this is the root component
+    - you can create POJO to store API data
+
+
+Classes in Type script:
+    1. use 'export' on a class for in order for other class/components to use it
+    2.
+
